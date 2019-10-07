@@ -4,5 +4,5 @@ control panel -> user accounts -> manage windows cradentials -> remove github fi
 create a new repo from github web                                                           
 git init                                                           
 git add                                                           
-git remote add origin <Git Repo URL>                                                           
+git remote add origin URL
 git push -u -f origin master                                                           
